@@ -1,9 +1,9 @@
 import { Module } from '@nestjs/common';
 
 @Module({
-    imports: [],
-    controllers: [],
-    providers: [],
+  imports: [],
+  controllers: [],
+  providers: [],
 })
-export class AiFlightPlanningModule {}
 
+export class AiFlightPlanningModule {}
